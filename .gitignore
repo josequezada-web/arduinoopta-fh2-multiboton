@@ -1,0 +1,6 @@
+arduino_secrets.h
+fire_event_config.h
+build/
+*.bin
+*.elf
+*.hex
